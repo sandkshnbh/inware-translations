@@ -248,7 +248,7 @@
     <string name="connectivity_bluetooth_status_turning_off">Se oprește</string>
     <string name="connectivity_bluetooth_permission_explainer">Permisiunea \"Dispozitive din apropiere\" este necesară pentru a afișa anumite detalii despre Bluetooth.</string>
     <string name="connectivity_features_category">Features</string>
-    <string name="connectivity_ble_channel_sounding_headline">BLE channel sounding</string>
+    <string name="connectivity_ble_channel_sounding_headline">Bluetooth channel sounding</string>
     <string name="connectivity_thread_network_headline">Thread network</string>
 
     <!-- Battery page -->

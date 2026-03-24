@@ -248,7 +248,7 @@
     <string name="connectivity_bluetooth_status_turning_off">正在關閉</string>
     <string name="connectivity_bluetooth_permission_explainer">需要 \"鄰近裝置\" 權限才能顯示某些藍牙資訊。</string>
     <string name="connectivity_features_category">Features</string>
-    <string name="connectivity_ble_channel_sounding_headline">BLE channel sounding</string>
+    <string name="connectivity_ble_channel_sounding_headline">Bluetooth channel sounding</string>
     <string name="connectivity_thread_network_headline">Thread network</string>
 
     <!-- Battery page -->
