@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi‑Fi</string>
-    <string name="network_type_headline">Τύπος δικτύου</string>
-    <string name="network_type_cellular">Κινητή</string>
-    <string name="network_download_speed_headline">Ταχύτητα λήψης</string>
-    <string name="network_upload_speed_headline">Ταχύτητα μεταφόρτωσης</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">Κρυφό</string>
-    <string name="network_frequency_headline">Συχνότητα</string>
-    <string name="network_signal_strength_headline">Ένταση σήματος</string>
-    <string name="network_link_speed_headline">Ταχύτητα ζεύξης</string>
-    <string name="network_local_ip_ipv4_headline">Τοπική IP (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">Τοπική IP (IPv6)</string>
-    <string name="network_mac_address_headline">Διεύθυνση MAC</string>
-    <string name="network_gateway_headline">Πύλη</string>
-    <string name="network_subnet_mask_headline">Μάσκα υποδικτύου</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">Χρόνος δανισμού DHCP</string>
-    <string name="network_lease_time_more_than_a_week">Πάνω από μια εβδομάδα (<xliff:g id="seconds" example="604801">%d</xliff:g> s)</string>
-    <string name="network_location_permission_explainer">Χωρίς άδεια ακριβούς τοποθεσίας, το τρέχον Wi‑Fi SSID δε μπορεί να εμφανιστεί.</string>
-    <string name="network_signal_weak">Αδύναμο</string>
-    <string name="network_signal_fair">Επαρκές</string>
-    <string name="network_signal_good">Καλό</string>
-    <string name="network_signal_excellent">Εξαιρετικό</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Δίκτυο</string>
+    <string name="connectivity_type_headline">Τύπος δικτύου</string>
+    <string name="connectivity_type_cellular">Κινητή</string>
+    <string name="connectivity_download_speed_headline">Ταχύτητα λήψης</string>
+    <string name="connectivity_upload_speed_headline">Ταχύτητα μεταφόρτωσης</string>
+    <string name="connectivity_wifi_category">Wi‑Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">Κρυφό</string>
+    <string name="connectivity_frequency_headline">Συχνότητα</string>
+    <string name="connectivity_signal_strength_headline">Ένταση σήματος</string>
+    <string name="connectivity_signal_weak">Αδύναμο</string>
+    <string name="connectivity_signal_fair">Επαρκές</string>
+    <string name="connectivity_signal_good">Καλό</string>
+    <string name="connectivity_signal_excellent">Εξαιρετικό</string>
+    <string name="connectivity_link_speed_headline">Ταχύτητα ζεύξης</string>
+    <string name="connectivity_local_ip_ipv4_headline">Τοπική IP (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">Τοπική IP (IPv6)</string>
+    <string name="connectivity_mac_address_headline">Διεύθυνση MAC</string>
+    <string name="connectivity_gateway_headline">Πύλη</string>
+    <string name="connectivity_subnet_mask_headline">Μάσκα υποδικτύου</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">Χρόνος δανισμού DHCP</string>
+    <string name="connectivity_lease_time_more_than_a_week">Πάνω από μια εβδομάδα (<xliff:g id="seconds" example="604801">%d</xliff:g> s)</string>
+    <string name="connectivity_location_permission_explainer">Χωρίς άδεια ακριβούς τοποθεσίας, το τρέχον Wi‑Fi SSID δε μπορεί να εμφανιστεί.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Όνομα</string>
     <string name="connectivity_bluetooth_status_headline">Κατάσταση</string>

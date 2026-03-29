@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">网络类型</string>
-    <string name="network_type_cellular">移动网络</string>
-    <string name="network_download_speed_headline">下行速度</string>
-    <string name="network_upload_speed_headline">上行速度</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">隐藏的 SSID</string>
-    <string name="network_frequency_headline">频率</string>
-    <string name="network_signal_strength_headline">信号强度</string>
-    <string name="network_link_speed_headline">连接速率</string>
-    <string name="network_local_ip_ipv4_headline">本地 IP（IPv4）</string>
-    <string name="network_local_ip_ipv6_headline">本地 IP（IPv6）</string>
-    <string name="network_mac_address_headline">MAC 地址</string>
-    <string name="network_gateway_headline">网关</string>
-    <string name="network_subnet_mask_headline">子网掩码</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">DHCP 租约期限</string>
-    <string name="network_lease_time_more_than_a_week">超过一周：<xliff:g id="seconds">%d</xliff:g> 秒</string>
-    <string name="network_location_permission_explainer">需要准确定位权限才能显示 Wi-Fi SSID。</string>
-    <string name="network_signal_weak">较弱</string>
-    <string name="network_signal_fair">中等</string>
-    <string name="network_signal_good">良好</string>
-    <string name="network_signal_excellent">极好</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">网络</string>
+    <string name="connectivity_type_headline">网络类型</string>
+    <string name="connectivity_type_cellular">移动网络</string>
+    <string name="connectivity_download_speed_headline">下行速度</string>
+    <string name="connectivity_upload_speed_headline">上行速度</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">隐藏的 SSID</string>
+    <string name="connectivity_frequency_headline">频率</string>
+    <string name="connectivity_signal_strength_headline">信号强度</string>
+    <string name="connectivity_signal_weak">较弱</string>
+    <string name="connectivity_signal_fair">中等</string>
+    <string name="connectivity_signal_good">良好</string>
+    <string name="connectivity_signal_excellent">极好</string>
+    <string name="connectivity_link_speed_headline">连接速率</string>
+    <string name="connectivity_local_ip_ipv4_headline">本地 IP（IPv4）</string>
+    <string name="connectivity_local_ip_ipv6_headline">本地 IP（IPv6）</string>
+    <string name="connectivity_mac_address_headline">MAC 地址</string>
+    <string name="connectivity_gateway_headline">网关</string>
+    <string name="connectivity_subnet_mask_headline">子网掩码</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">DHCP 租约期限</string>
+    <string name="connectivity_lease_time_more_than_a_week">超过一周：<xliff:g id="seconds">%d</xliff:g> 秒</string>
+    <string name="connectivity_location_permission_explainer">需要准确定位权限才能显示 Wi-Fi SSID。</string>
     <string name="connectivity_bluetooth_category">蓝牙</string>
     <string name="connectivity_bluetooth_name_headline">名称</string>
     <string name="connectivity_bluetooth_status_headline">状态</string>

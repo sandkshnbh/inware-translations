@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">Typ sieci</string>
-    <string name="network_type_cellular">Dane mobilne</string>
-    <string name="network_download_speed_headline">Prędkość pobierania</string>
-    <string name="network_upload_speed_headline">Prędkość wysyłania</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">Ukryte</string>
-    <string name="network_frequency_headline">Częstotliwość</string>
-    <string name="network_signal_strength_headline">Siła sygnału</string>
-    <string name="network_link_speed_headline">Prędkość łącza</string>
-    <string name="network_local_ip_ipv4_headline">Lokalne IP (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">Lokalne IP (IPv6)</string>
-    <string name="network_mac_address_headline">Adres MAC</string>
-    <string name="network_gateway_headline">Brama</string>
-    <string name="network_subnet_mask_headline">Maska podsieci</string>
-    <string name="network_dns_headline">Adres DNS</string>
-    <string name="network_dhcp_lease_time_headline">Czas dzierżawy DHCP</string>
-    <string name="network_lease_time_more_than_a_week">Więcej niż tydzień: <xliff:g id="seconds">%d</xliff:g> sekund</string>
-    <string name="network_location_permission_explainer">Bez podania dokładnej lokalizacji nie można wyświetlić bieżącego identyfikatora SSID sieci Wi-Fi.</string>
-    <string name="network_signal_weak">Słaba</string>
-    <string name="network_signal_fair">Średnia</string>
-    <string name="network_signal_good">Dobra</string>
-    <string name="network_signal_excellent">Świetna</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Sieć</string>
+    <string name="connectivity_type_headline">Typ sieci</string>
+    <string name="connectivity_type_cellular">Dane mobilne</string>
+    <string name="connectivity_download_speed_headline">Prędkość pobierania</string>
+    <string name="connectivity_upload_speed_headline">Prędkość wysyłania</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">Ukryte</string>
+    <string name="connectivity_frequency_headline">Częstotliwość</string>
+    <string name="connectivity_signal_strength_headline">Siła sygnału</string>
+    <string name="connectivity_signal_weak">Słaba</string>
+    <string name="connectivity_signal_fair">Średnia</string>
+    <string name="connectivity_signal_good">Dobra</string>
+    <string name="connectivity_signal_excellent">Świetna</string>
+    <string name="connectivity_link_speed_headline">Prędkość łącza</string>
+    <string name="connectivity_local_ip_ipv4_headline">Lokalne IP (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">Lokalne IP (IPv6)</string>
+    <string name="connectivity_mac_address_headline">Adres MAC</string>
+    <string name="connectivity_gateway_headline">Brama</string>
+    <string name="connectivity_subnet_mask_headline">Maska podsieci</string>
+    <string name="connectivity_dns_headline">Adres DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">Czas dzierżawy DHCP</string>
+    <string name="connectivity_lease_time_more_than_a_week">Więcej niż tydzień: <xliff:g id="seconds">%d</xliff:g> sekund</string>
+    <string name="connectivity_location_permission_explainer">Bez podania dokładnej lokalizacji nie można wyświetlić bieżącego identyfikatora SSID sieci Wi-Fi.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Nazwa</string>
     <string name="connectivity_bluetooth_status_headline">Status</string>

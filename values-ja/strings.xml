@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">ネットワークタイプ</string>
-    <string name="network_type_cellular">Cellular</string>
-    <string name="network_download_speed_headline">下り速度</string>
-    <string name="network_upload_speed_headline">上り速度</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">ステルスSSID</string>
-    <string name="network_frequency_headline">周波数</string>
-    <string name="network_signal_strength_headline">信号強度</string>
-    <string name="network_link_speed_headline">リンク速度</string>
-    <string name="network_local_ip_ipv4_headline">ローカルIP（IPv4）</string>
-    <string name="network_local_ip_ipv6_headline">ローカルIP（IPv6）</string>
-    <string name="network_mac_address_headline">MACアドレス</string>
-    <string name="network_gateway_headline">ゲートウェイ</string>
-    <string name="network_subnet_mask_headline">サブネットマスク</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">DHCPリース時間</string>
-    <string name="network_lease_time_more_than_a_week">一週間以上: <xliff:g id="seconds">%d</xliff:g> 秒</string>
-    <string name="network_location_permission_explainer">Wi-FiのSSIDを表示するには、正確な位置情報へのアクセス権限が必要です。</string>
-    <string name="network_signal_weak">弱い</string>
-    <string name="network_signal_fair">普通</string>
-    <string name="network_signal_good">良好</string>
-    <string name="network_signal_excellent">強い</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">ネットワーク</string>
+    <string name="connectivity_type_headline">ネットワークタイプ</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_download_speed_headline">下り速度</string>
+    <string name="connectivity_upload_speed_headline">上り速度</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">ステルスSSID</string>
+    <string name="connectivity_frequency_headline">周波数</string>
+    <string name="connectivity_signal_strength_headline">信号強度</string>
+    <string name="connectivity_signal_weak">弱い</string>
+    <string name="connectivity_signal_fair">普通</string>
+    <string name="connectivity_signal_good">良好</string>
+    <string name="connectivity_signal_excellent">強い</string>
+    <string name="connectivity_link_speed_headline">リンク速度</string>
+    <string name="connectivity_local_ip_ipv4_headline">ローカルIP（IPv4）</string>
+    <string name="connectivity_local_ip_ipv6_headline">ローカルIP（IPv6）</string>
+    <string name="connectivity_mac_address_headline">MACアドレス</string>
+    <string name="connectivity_gateway_headline">ゲートウェイ</string>
+    <string name="connectivity_subnet_mask_headline">サブネットマスク</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">DHCPリース時間</string>
+    <string name="connectivity_lease_time_more_than_a_week">一週間以上: <xliff:g id="seconds">%d</xliff:g> 秒</string>
+    <string name="connectivity_location_permission_explainer">Wi-FiのSSIDを表示するには、正確な位置情報へのアクセス権限が必要です。</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">名前</string>
     <string name="connectivity_bluetooth_status_headline">ステータス</string>

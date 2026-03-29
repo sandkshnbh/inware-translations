@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">ওয়াই-ফাই</string>
-    <string name="network_type_headline">নেটওয়ার্ক এর ধরণ</string>
-    <string name="network_type_cellular">Cellular</string>
-    <string name="network_download_speed_headline">ডাউনলোড স্পীড</string>
-    <string name="network_upload_speed_headline">আপলোড স্পীড</string>
-    <string name="network_ssid_headline">এসএসআইডি</string>
-    <string name="network_ssid_hidden_value">গোপন এসএসআইডি</string>
-    <string name="network_frequency_headline">ফ্রিকোয়েন্সি</string>
-    <string name="network_signal_strength_headline">সিগনাল এর ক্ষমতা</string>
-    <string name="network_link_speed_headline">লিংক এর স্পীড</string>
-    <string name="network_local_ip_ipv4_headline">লোকাল আইপি (আইপিভি৪)</string>
-    <string name="network_local_ip_ipv6_headline">লোকাল আইপি (আইপিভি৬)</string>
-    <string name="network_mac_address_headline">ম্যাক এড্রেস</string>
-    <string name="network_gateway_headline">গেটওয়ে</string>
-    <string name="network_subnet_mask_headline">সাবনেট মাস্ক</string>
-    <string name="network_dns_headline">ডিএনএস</string>
-    <string name="network_dhcp_lease_time_headline">ডিএইচসিপি এর লিজ সময়</string>
-    <string name="network_lease_time_more_than_a_week">এক সপ্তাহের বেশ: <xliff:g id="seconds">%d</xliff:g> seconds</string>
-    <string name="network_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
-    <string name="network_signal_weak">দুর্বল</string>
-    <string name="network_signal_fair">ন্যায্য</string>
-    <string name="network_signal_good">ভাল</string>
-    <string name="network_signal_excellent">চমৎকার</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">নেটওয়ার্ক</string>
+    <string name="connectivity_type_headline">নেটওয়ার্ক এর ধরণ</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_download_speed_headline">ডাউনলোড স্পীড</string>
+    <string name="connectivity_upload_speed_headline">আপলোড স্পীড</string>
+    <string name="connectivity_wifi_category">ওয়াই-ফাই</string>
+    <string name="connectivity_ssid_headline">এসএসআইডি</string>
+    <string name="connectivity_ssid_hidden_value">গোপন এসএসআইডি</string>
+    <string name="connectivity_frequency_headline">ফ্রিকোয়েন্সি</string>
+    <string name="connectivity_signal_strength_headline">সিগনাল এর ক্ষমতা</string>
+    <string name="connectivity_signal_weak">দুর্বল</string>
+    <string name="connectivity_signal_fair">ন্যায্য</string>
+    <string name="connectivity_signal_good">ভাল</string>
+    <string name="connectivity_signal_excellent">চমৎকার</string>
+    <string name="connectivity_link_speed_headline">লিংক এর স্পীড</string>
+    <string name="connectivity_local_ip_ipv4_headline">লোকাল আইপি (আইপিভি৪)</string>
+    <string name="connectivity_local_ip_ipv6_headline">লোকাল আইপি (আইপিভি৬)</string>
+    <string name="connectivity_mac_address_headline">ম্যাক এড্রেস</string>
+    <string name="connectivity_gateway_headline">গেটওয়ে</string>
+    <string name="connectivity_subnet_mask_headline">সাবনেট মাস্ক</string>
+    <string name="connectivity_dns_headline">ডিএনএস</string>
+    <string name="connectivity_dhcp_lease_time_headline">ডিএইচসিপি এর লিজ সময়</string>
+    <string name="connectivity_lease_time_more_than_a_week">এক সপ্তাহের বেশ: <xliff:g id="seconds">%d</xliff:g> seconds</string>
+    <string name="connectivity_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
     <string name="connectivity_bluetooth_category">ব্লুটুথ</string>
     <string name="connectivity_bluetooth_name_headline">নাম</string>
     <string name="connectivity_bluetooth_status_headline">অবস্থা</string>

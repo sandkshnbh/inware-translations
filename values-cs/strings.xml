@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">Typ připojení</string>
-    <string name="network_type_cellular">Cellular</string>
-    <string name="network_download_speed_headline">Rychlost stahování</string>
-    <string name="network_upload_speed_headline">Rychlost nahrávání</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">Skryté SSID</string>
-    <string name="network_frequency_headline">Frekvence</string>
-    <string name="network_signal_strength_headline">Síla signálu</string>
-    <string name="network_link_speed_headline">Rychlost spojení</string>
-    <string name="network_local_ip_ipv4_headline">Místní IP (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">Místní IP (IPv6)</string>
-    <string name="network_mac_address_headline">MAC Adresa</string>
-    <string name="network_gateway_headline">Výchozí brána</string>
-    <string name="network_subnet_mask_headline">Maska podsítě</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">DHCP Lease Time</string>
-    <string name="network_lease_time_more_than_a_week">Více než týden: <xliff:g id="seconds">%d</xliff:g> vteřin</string>
-    <string name="network_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
-    <string name="network_signal_weak">Slabý</string>
-    <string name="network_signal_fair">Dobrý</string>
-    <string name="network_signal_good">Dobré</string>
-    <string name="network_signal_excellent">Výborný</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Síť</string>
+    <string name="connectivity_type_headline">Typ připojení</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_download_speed_headline">Rychlost stahování</string>
+    <string name="connectivity_upload_speed_headline">Rychlost nahrávání</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">Skryté SSID</string>
+    <string name="connectivity_frequency_headline">Frekvence</string>
+    <string name="connectivity_signal_strength_headline">Síla signálu</string>
+    <string name="connectivity_signal_weak">Slabý</string>
+    <string name="connectivity_signal_fair">Dobrý</string>
+    <string name="connectivity_signal_good">Dobré</string>
+    <string name="connectivity_signal_excellent">Výborný</string>
+    <string name="connectivity_link_speed_headline">Rychlost spojení</string>
+    <string name="connectivity_local_ip_ipv4_headline">Místní IP (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">Místní IP (IPv6)</string>
+    <string name="connectivity_mac_address_headline">MAC Adresa</string>
+    <string name="connectivity_gateway_headline">Výchozí brána</string>
+    <string name="connectivity_subnet_mask_headline">Maska podsítě</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">DHCP Lease Time</string>
+    <string name="connectivity_lease_time_more_than_a_week">Více než týden: <xliff:g id="seconds">%d</xliff:g> vteřin</string>
+    <string name="connectivity_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Jméno</string>
     <string name="connectivity_bluetooth_status_headline">Stav</string>

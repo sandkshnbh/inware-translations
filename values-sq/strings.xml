@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">Tipi i rrjetit</string>
-    <string name="network_type_cellular">Cellular</string>
-    <string name="network_download_speed_headline">Shpejtesia e shkarkimit</string>
-    <string name="network_upload_speed_headline">Shpejtesia e ngarkimit</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">SSID e fshehur</string>
-    <string name="network_frequency_headline">Frekuenca</string>
-    <string name="network_signal_strength_headline">Fortesia e sinjalit</string>
-    <string name="network_link_speed_headline">Shpejtesia e lidhjes</string>
-    <string name="network_local_ip_ipv4_headline">IP lokale (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">IP lokale (IPv6)</string>
-    <string name="network_mac_address_headline">Adresa MAC</string>
-    <string name="network_gateway_headline">Porta</string>
-    <string name="network_subnet_mask_headline">Maska subnet</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">Koha e leshimit DHCP</string>
-    <string name="network_lease_time_more_than_a_week">Me shume se nje jave: <xliff:g id="seconds">%d</xliff:g> sekonda</string>
-    <string name="network_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
-    <string name="network_signal_weak">E dobet</string>
-    <string name="network_signal_fair">E pranueshme</string>
-    <string name="network_signal_good">Mire</string>
-    <string name="network_signal_excellent">E shkelqyer</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Rrjeti</string>
+    <string name="connectivity_type_headline">Tipi i rrjetit</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_download_speed_headline">Shpejtesia e shkarkimit</string>
+    <string name="connectivity_upload_speed_headline">Shpejtesia e ngarkimit</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">SSID e fshehur</string>
+    <string name="connectivity_frequency_headline">Frekuenca</string>
+    <string name="connectivity_signal_strength_headline">Fortesia e sinjalit</string>
+    <string name="connectivity_signal_weak">E dobet</string>
+    <string name="connectivity_signal_fair">E pranueshme</string>
+    <string name="connectivity_signal_good">Mire</string>
+    <string name="connectivity_signal_excellent">E shkelqyer</string>
+    <string name="connectivity_link_speed_headline">Shpejtesia e lidhjes</string>
+    <string name="connectivity_local_ip_ipv4_headline">IP lokale (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">IP lokale (IPv6)</string>
+    <string name="connectivity_mac_address_headline">Adresa MAC</string>
+    <string name="connectivity_gateway_headline">Porta</string>
+    <string name="connectivity_subnet_mask_headline">Maska subnet</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">Koha e leshimit DHCP</string>
+    <string name="connectivity_lease_time_more_than_a_week">Me shume se nje jave: <xliff:g id="seconds">%d</xliff:g> sekonda</string>
+    <string name="connectivity_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Emri</string>
     <string name="connectivity_bluetooth_status_headline">Statusi</string>

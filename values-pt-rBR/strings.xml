@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">Tipo de Rede</string>
-    <string name="network_type_cellular">Cellular</string>
-    <string name="network_download_speed_headline">Velocidade de Download</string>
-    <string name="network_upload_speed_headline">Velocidade de Upload</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">SSID Oculto</string>
-    <string name="network_frequency_headline">Frequência</string>
-    <string name="network_signal_strength_headline">Força do Sinal</string>
-    <string name="network_link_speed_headline">Velocidade do Link</string>
-    <string name="network_local_ip_ipv4_headline">IP Local (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">IP Local (IPv6)</string>
-    <string name="network_mac_address_headline">MAC Address</string>
-    <string name="network_gateway_headline">Gateway</string>
-    <string name="network_subnet_mask_headline">Máscara de Subrede</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">Tempo de Concessão do DHCP</string>
-    <string name="network_lease_time_more_than_a_week">Mais de uma semana: <xliff:g id="seconds">%d</xliff:g> seconds</string>
-    <string name="network_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
-    <string name="network_signal_weak">Fraco</string>
-    <string name="network_signal_fair">Razoável</string>
-    <string name="network_signal_good">Bom</string>
-    <string name="network_signal_excellent">Excelente</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Rede</string>
+    <string name="connectivity_type_headline">Tipo de Rede</string>
+    <string name="connectivity_type_cellular">Cellular</string>
+    <string name="connectivity_download_speed_headline">Velocidade de Download</string>
+    <string name="connectivity_upload_speed_headline">Velocidade de Upload</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">SSID Oculto</string>
+    <string name="connectivity_frequency_headline">Frequência</string>
+    <string name="connectivity_signal_strength_headline">Força do Sinal</string>
+    <string name="connectivity_signal_weak">Fraco</string>
+    <string name="connectivity_signal_fair">Razoável</string>
+    <string name="connectivity_signal_good">Bom</string>
+    <string name="connectivity_signal_excellent">Excelente</string>
+    <string name="connectivity_link_speed_headline">Velocidade do Link</string>
+    <string name="connectivity_local_ip_ipv4_headline">IP Local (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">IP Local (IPv6)</string>
+    <string name="connectivity_mac_address_headline">MAC Address</string>
+    <string name="connectivity_gateway_headline">Gateway</string>
+    <string name="connectivity_subnet_mask_headline">Máscara de Subrede</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">Tempo de Concessão do DHCP</string>
+    <string name="connectivity_lease_time_more_than_a_week">Mais de uma semana: <xliff:g id="seconds">%d</xliff:g> seconds</string>
+    <string name="connectivity_location_permission_explainer">Without the precise location permission, the current Wi‑Fi SSID cannot be displayed.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Nome</string>
     <string name="connectivity_bluetooth_status_headline">Status</string>

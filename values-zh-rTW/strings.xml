@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi-Fi</string>
-    <string name="network_type_headline">網路類型</string>
-    <string name="network_type_cellular">行動網路</string>
-    <string name="network_download_speed_headline">下載速度</string>
-    <string name="network_upload_speed_headline">上傳速度</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">隱藏的 SSID</string>
-    <string name="network_frequency_headline">頻率</string>
-    <string name="network_signal_strength_headline">訊號強度</string>
-    <string name="network_link_speed_headline">連結速度</string>
-    <string name="network_local_ip_ipv4_headline">本機 IP（IPv4）</string>
-    <string name="network_local_ip_ipv6_headline">本機 IP（IPv6）</string>
-    <string name="network_mac_address_headline">MAC 位址</string>
-    <string name="network_gateway_headline">閘道</string>
-    <string name="network_subnet_mask_headline">子網路遮罩</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">DHCP 租約期限</string>
-    <string name="network_lease_time_more_than_a_week">超過一週：<xliff:g id="seconds">%d</xliff:g> 秒</string>
-    <string name="network_location_permission_explainer">需要精確位置許可權才能顯示 Wi-Fi SSID。</string>
-    <string name="network_signal_weak">較弱</string>
-    <string name="network_signal_fair">中等</string>
-    <string name="network_signal_good">良好</string>
-    <string name="network_signal_excellent">極佳</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">網路</string>
+    <string name="connectivity_type_headline">網路類型</string>
+    <string name="connectivity_type_cellular">行動網路</string>
+    <string name="connectivity_download_speed_headline">下載速度</string>
+    <string name="connectivity_upload_speed_headline">上傳速度</string>
+    <string name="connectivity_wifi_category">Wi-Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">隱藏的 SSID</string>
+    <string name="connectivity_frequency_headline">頻率</string>
+    <string name="connectivity_signal_strength_headline">訊號強度</string>
+    <string name="connectivity_signal_weak">較弱</string>
+    <string name="connectivity_signal_fair">中等</string>
+    <string name="connectivity_signal_good">良好</string>
+    <string name="connectivity_signal_excellent">極佳</string>
+    <string name="connectivity_link_speed_headline">連結速度</string>
+    <string name="connectivity_local_ip_ipv4_headline">本機 IP（IPv4）</string>
+    <string name="connectivity_local_ip_ipv6_headline">本機 IP（IPv6）</string>
+    <string name="connectivity_mac_address_headline">MAC 位址</string>
+    <string name="connectivity_gateway_headline">閘道</string>
+    <string name="connectivity_subnet_mask_headline">子網路遮罩</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">DHCP 租約期限</string>
+    <string name="connectivity_lease_time_more_than_a_week">超過一週：<xliff:g id="seconds">%d</xliff:g> 秒</string>
+    <string name="connectivity_location_permission_explainer">需要精確位置許可權才能顯示 Wi-Fi SSID。</string>
     <string name="connectivity_bluetooth_category">藍牙</string>
     <string name="connectivity_bluetooth_name_headline">名稱</string>
     <string name="connectivity_bluetooth_status_headline">狀態</string>

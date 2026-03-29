@@ -211,33 +211,31 @@
     <string name="sensor_power_value">%s mA</string>
     <string name="sensor_version_headline">Version</string>
 
-    <!-- Network page -->
-    <string name="network_wifi_category">Wi‑Fi</string>
-    <string name="network_type_headline">Tip de rețea</string>
-    <string name="network_type_cellular">Celulară</string>
-    <string name="network_download_speed_headline">Viteză de descărcare</string>
-    <string name="network_upload_speed_headline">Viteză de încărcare</string>
-    <string name="network_ssid_headline">SSID</string>
-    <string name="network_ssid_hidden_value">SSID ascuns</string>
-    <string name="network_frequency_headline">Frecvență</string>
-    <string name="network_signal_strength_headline">Putere semnal</string>
-    <string name="network_link_speed_headline">Viteză legătură</string>
-    <string name="network_local_ip_ipv4_headline">Adresă IP locală (IPv4)</string>
-    <string name="network_local_ip_ipv6_headline">Adresă IP locală (IPv6)</string>
-    <string name="network_mac_address_headline">Adresă MAC</string>
-    <string name="network_gateway_headline">Poartă de acces (Gateway)</string>
-    <string name="network_subnet_mask_headline">Mască de subrețea</string>
-    <string name="network_dns_headline">DNS</string>
-    <string name="network_dhcp_lease_time_headline">Perioadă de închiriere DHCP</string>
-    <string name="network_lease_time_more_than_a_week">Mai mult de o săptămână (<xliff:g id="seconds" example="604801">%d</xliff:g> s)</string>
-    <string name="network_location_permission_explainer">Permisiunea pentru locație exactă este necesară pentru a afișa SSID-ul Wi‑Fi.</string>
-    <string name="network_signal_weak">Slab</string>
-    <string name="network_signal_fair">Acceptabil</string>
-    <string name="network_signal_good">Bun</string>
-    <string name="network_signal_excellent">Excelent</string>
-
     <!-- Connectivity page -->
     <string name="connectivity_network_category">Rețea</string>
+    <string name="connectivity_type_headline">Tip de rețea</string>
+    <string name="connectivity_type_cellular">Celulară</string>
+    <string name="connectivity_download_speed_headline">Viteză de descărcare</string>
+    <string name="connectivity_upload_speed_headline">Viteză de încărcare</string>
+    <string name="connectivity_wifi_category">Wi‑Fi</string>
+    <string name="connectivity_ssid_headline">SSID</string>
+    <string name="connectivity_ssid_hidden_value">SSID ascuns</string>
+    <string name="connectivity_frequency_headline">Frecvență</string>
+    <string name="connectivity_signal_strength_headline">Putere semnal</string>
+    <string name="connectivity_signal_weak">Slab</string>
+    <string name="connectivity_signal_fair">Acceptabil</string>
+    <string name="connectivity_signal_good">Bun</string>
+    <string name="connectivity_signal_excellent">Excelent</string>
+    <string name="connectivity_link_speed_headline">Viteză legătură</string>
+    <string name="connectivity_local_ip_ipv4_headline">Adresă IP locală (IPv4)</string>
+    <string name="connectivity_local_ip_ipv6_headline">Adresă IP locală (IPv6)</string>
+    <string name="connectivity_mac_address_headline">Adresă MAC</string>
+    <string name="connectivity_gateway_headline">Poartă de acces (Gateway)</string>
+    <string name="connectivity_subnet_mask_headline">Mască de subrețea</string>
+    <string name="connectivity_dns_headline">DNS</string>
+    <string name="connectivity_dhcp_lease_time_headline">Perioadă de închiriere DHCP</string>
+    <string name="connectivity_lease_time_more_than_a_week">Mai mult de o săptămână (<xliff:g id="seconds" example="604801">%d</xliff:g> s)</string>
+    <string name="connectivity_location_permission_explainer">Permisiunea pentru locație exactă este necesară pentru a afișa SSID-ul Wi‑Fi.</string>
     <string name="connectivity_bluetooth_category">Bluetooth</string>
     <string name="connectivity_bluetooth_name_headline">Nume</string>
     <string name="connectivity_bluetooth_status_headline">Stare</string>
