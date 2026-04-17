@@ -13,6 +13,9 @@
     <string name="generic_allow">Benarkan</string>
     <string name="generic_deny">Jangan Benarkan</string>
     <string name="generic_copied_to_clipboard">Disalin ke papan keratan</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Kemaskini Lancar</string>
     <string name="system_active_slot_headline">Slot Aktif</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Versi Root</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">Tentang</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Papan Keratan</string>
-    <string name="settings_general_long_press_to_copy_headline">Tekan lama untuk salin</string>
-    <string name="settings_general_long_press_to_copy_description">Salin nilai item dengan menekan lama</string>
-    <string name="settings_general_copy_values_with_labels_headline">Salin nilai berserta label</string>
-    <string name="settings_general_copy_values_with_labels_description">Sertakan label nilai semasa menyalin</string>
     <string name="settings_general_security_category">Keselamatan</string>
     <string name="settings_general_block_screen_capture_headline">Tangkapan skrin hitam</string>
     <string name="settings_general_block_screen_capture_description">Halang tangkapan kandungan skrin</string>

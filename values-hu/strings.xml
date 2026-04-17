@@ -13,6 +13,9 @@
     <string name="generic_allow">Engedélyez</string>
     <string name="generic_deny">Megtagad</string>
     <string name="generic_copied_to_clipboard">Vágólapra másolva</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Zökkenőmentes Frissítések</string>
     <string name="system_active_slot_headline">Aktív Szlot</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Root Verzió</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">Az Alkalmazásról</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Vágólap</string>
-    <string name="settings_general_long_press_to_copy_headline">Nyomja meg hosszan a másoláshoz</string>
-    <string name="settings_general_long_press_to_copy_description">Az elemek értékeinek másolása hosszan nyomásával</string>
-    <string name="settings_general_copy_values_with_labels_headline">Másoljon értékeket címkével</string>
-    <string name="settings_general_copy_values_with_labels_description">A másolás során tartalmazza az értékeket</string>
     <string name="settings_general_security_category">Biztonság</string>
     <string name="settings_general_block_screen_capture_headline">Képernyőfelvétel letiltása</string>
     <string name="settings_general_block_screen_capture_description">A képernyőn megjelenő tartalom rögzítésének megakadályozása</string>

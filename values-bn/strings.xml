@@ -13,6 +13,9 @@
     <string name="generic_allow">অনুমতি</string>
     <string name="generic_deny">প্রত্যাখ্যান</string>
     <string name="generic_copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">নিরবিচ্ছিন্ন আধুনিকায়ন</string>
     <string name="system_active_slot_headline">সক্রিয় স্লট</string>
     <string name="system_root_headline">মূল</string>
-    <string name="system_root_version_headline">Root Version</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">সম্পর্কিত</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">ক্লিপবোর্ড</string>
-    <string name="settings_general_long_press_to_copy_headline">কপি করতে দীর্ঘ প্রেস করুন</string>
-    <string name="settings_general_long_press_to_copy_description">আইটেমগুলির মানগুলিকে দীর্ঘ প্রেস করে কপি করুন</string>
-    <string name="settings_general_copy_values_with_labels_headline">লেবেল সহ মানগুলি কপি করুন</string>
-    <string name="settings_general_copy_values_with_labels_description">কপি করার সময় মানগুলির লেবেল অন্তর্ভুক্ত করুন</string>
     <string name="settings_general_security_category">Security</string>
     <string name="settings_general_block_screen_capture_headline">Block screen capture</string>
     <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>

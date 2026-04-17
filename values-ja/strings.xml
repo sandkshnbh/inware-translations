@@ -13,6 +13,9 @@
     <string name="generic_allow">許可</string>
     <string name="generic_deny">拒否</string>
     <string name="generic_copied_to_clipboard">クリップボードにコピーしました</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">シームレス アップデート</string>
     <string name="system_active_slot_headline">有効なスロット</string>
     <string name="system_root_headline">ルート</string>
-    <string name="system_root_version_headline">ルートバージョン</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">このアプリについて</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">クリップボード</string>
-    <string name="settings_general_long_press_to_copy_headline">長押しでコピー</string>
-    <string name="settings_general_long_press_to_copy_description">長押しして項目の値をコピーします</string>
-    <string name="settings_general_copy_values_with_labels_headline">ラベルを付けてコピー</string>
-    <string name="settings_general_copy_values_with_labels_description">コピーの際に値のラベルを付けます</string>
     <string name="settings_general_security_category">セキュリティ</string>
     <string name="settings_general_block_screen_capture_headline">画面キャプチャをブロックする</string>
     <string name="settings_general_block_screen_capture_description">画面内容のキャプチャをブロックします</string>

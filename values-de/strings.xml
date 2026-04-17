@@ -13,6 +13,9 @@
     <string name="generic_allow">Akzeptieren</string>
     <string name="generic_deny">Ablehnen</string>
     <string name="generic_copied_to_clipboard">In Zwischenablage kopiert</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Nahtlose Updates</string>
     <string name="system_active_slot_headline">Aktiver Slot</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Root-Version</string>
     <string name="system_page_size_headline">Seitengröße</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">Über</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Zwischenablage</string>
-    <string name="settings_general_long_press_to_copy_headline">Länger drücken zum Kopieren</string>
-    <string name="settings_general_long_press_to_copy_description">Kopiert die Daten in den Feldern bei längerem Drücken</string>
-    <string name="settings_general_copy_values_with_labels_headline">Kopiere Feldnamen mit Daten</string>
-    <string name="settings_general_copy_values_with_labels_description">Kopiert die Daten mit den dazugehörigen Feldnamen</string>
     <string name="settings_general_security_category">Sicherheit</string>
     <string name="settings_general_block_screen_capture_headline">Bildschirmaufnahme verhindern</string>
     <string name="settings_general_block_screen_capture_description">Blockiere das Aufnehmen von Bildschirminhalten</string>
@@ -367,10 +364,10 @@
     <string name="settings_developer_options_warning_proceed">Fortfahren</string>
 
     <!--
-Legacy strings without new equivalents.
+    Legacy strings without new equivalents.
 
-These strings may still be used in the future. Translations are kept just in case.
-    -->
+    These strings may still be used in the future. Translations are kept just in case.
+     -->
     <string name="legacy_new_version_available">Neue Version verfügbar</string>
     <string name="legacy_new_version_dialog_message">Aktualisiere auf die neuste Version, für eine bessere Nutzungserfahrung</string>
     <string name="legacy_update">Aktualisieren</string>

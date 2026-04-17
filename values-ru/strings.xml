@@ -13,6 +13,9 @@
     <string name="generic_allow">Разрешить</string>
     <string name="generic_deny">Отклонить</string>
     <string name="generic_copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Seamless Updates</string>
     <string name="system_active_slot_headline">Активный слот</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Версия Root</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">About</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Буфер обмена</string>
-    <string name="settings_general_long_press_to_copy_headline">Долгое нажатие для копирование</string>
-    <string name="settings_general_long_press_to_copy_description">Копирование данных долгим нажатием</string>
-    <string name="settings_general_copy_values_with_labels_headline">Копировать данные с заголовком</string>
-    <string name="settings_general_copy_values_with_labels_description">Включает в себя так же заголовок строки</string>
     <string name="settings_general_security_category">Security</string>
     <string name="settings_general_block_screen_capture_headline">Block screen capture</string>
     <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>

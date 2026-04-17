@@ -13,6 +13,9 @@
     <string name="generic_allow">Allow</string>
     <string name="generic_deny">Deny</string>
     <string name="generic_copied_to_clipboard">Copied to clipboard</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <!-- IEC size units (1024-based). SI sizes use ICU's MeasureFormat instead. -->
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
@@ -103,7 +106,6 @@
     <string name="system_seamless_updates_headline">Seamless updates</string>
     <string name="system_active_slot_headline">Active slot</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Root version</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -308,11 +310,6 @@
     <string name="settings_about_entry_headline">About</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Clipboard</string>
-    <string name="settings_general_long_press_to_copy_headline">Long press to copy</string>
-    <string name="settings_general_long_press_to_copy_description">Copy items’ values by long pressing them</string>
-    <string name="settings_general_copy_values_with_labels_headline">Copy values with labels</string>
-    <string name="settings_general_copy_values_with_labels_description">Include values’ labels when copying</string>
     <string name="settings_general_security_category">Security</string>
     <string name="settings_general_block_screen_capture_headline">Block screen capture</string>
     <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>

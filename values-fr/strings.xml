@@ -13,6 +13,9 @@
     <string name="generic_allow">Autoriser</string>
     <string name="generic_deny">Refuser</string>
     <string name="generic_copied_to_clipboard">Copié dans le presse-papier</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> o</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> Ko</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> Mo</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Mises à jour en arrière-plan</string>
     <string name="system_active_slot_headline">Slot actif</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Version Root</string>
     <string name="system_page_size_headline">Taille de page</string>
     <string name="system_emulator_headline">Émulateur</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">À propos</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Presse-papier</string>
-    <string name="settings_general_long_press_to_copy_headline">Appui prolongé pour copier</string>
-    <string name="settings_general_long_press_to_copy_description">Copier les élements en appuyant longuement dessus</string>
-    <string name="settings_general_copy_values_with_labels_headline">Copier les valeurs avec les libellés</string>
-    <string name="settings_general_copy_values_with_labels_description">Inclure les libellés lors de la copie des valeurs</string>
     <string name="settings_general_security_category">Sécurité</string>
     <string name="settings_general_block_screen_capture_headline">Bloquer l\'enregistrement de l\'écran</string>
     <string name="settings_general_block_screen_capture_description">Empêcher l\'enregistrement du contenu de l\'écran</string>

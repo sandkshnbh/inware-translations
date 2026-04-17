@@ -13,6 +13,9 @@
     <string name="generic_allow">Consenti</string>
     <string name="generic_deny">Nega</string>
     <string name="generic_copied_to_clipboard">Copiato negli appunti</string>
+    <string name="generic_copy">Copy</string>
+    <string name="generic_copy_value">Copy value</string>
+    <string name="generic_share">Share</string>
     <string name="generic_iec_bytes"><xliff:g id="size" example="36">%s</xliff:g> B</string>
     <string name="generic_iec_kilobytes"><xliff:g id="size" example="36">%s</xliff:g> KB</string>
     <string name="generic_iec_megabytes"><xliff:g id="size" example="36">%s</xliff:g> MB</string>
@@ -102,7 +105,6 @@
     <string name="system_seamless_updates_headline">Aggiornamento continuo (seamless)</string>
     <string name="system_active_slot_headline">Slot attivo</string>
     <string name="system_root_headline">Root</string>
-    <string name="system_root_version_headline">Versione root</string>
     <string name="system_page_size_headline">Page size</string>
     <string name="system_emulator_headline">Emulator</string>
 
@@ -307,11 +309,6 @@
     <string name="settings_about_entry_headline">Informazioni</string>
 
     <!-- General Settings -->
-    <string name="settings_general_clipboard_category">Appunti</string>
-    <string name="settings_general_long_press_to_copy_headline">Tieni premuto per copiare</string>
-    <string name="settings_general_long_press_to_copy_description">Copia i valori tenendo premuto sopra di essi</string>
-    <string name="settings_general_copy_values_with_labels_headline">Copia valori con etichette</string>
-    <string name="settings_general_copy_values_with_labels_description">Includi i nomi dei valori nella copia</string>
     <string name="settings_general_security_category">Security</string>
     <string name="settings_general_block_screen_capture_headline">Block screen capture</string>
     <string name="settings_general_block_screen_capture_description">Prevent the capture of screen content</string>
